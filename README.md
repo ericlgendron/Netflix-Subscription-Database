@@ -1,7 +1,7 @@
 -- Query 1: Countries ranked by usage
-	Observations:
-    US is the highest revenue country
-    UK has the highest average subscription amount
+	--Observations:
+    --US is the highest revenue country
+    --UK has the highest average subscription amount
 
 -- Query 2: Countries ranked by device
 	Observations:
